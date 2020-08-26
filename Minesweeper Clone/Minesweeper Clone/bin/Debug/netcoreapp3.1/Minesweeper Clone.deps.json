@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Minesweeper Clone/1.0.0": {
+        "dependencies": {
+          "MineSweeperClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Minesweeper Clone.dll": {}
+        }
+      },
+      "MineSweeperClassLibrary/1.0.0": {
+        "runtime": {
+          "MineSweeperClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minesweeper Clone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MineSweeperClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
