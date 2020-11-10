@@ -1,4 +1,2 @@
 # Minesweeper-Clone
-Minesweeper Clone in Windows Forms
-
-This is a Minesweeper Clone that I created to get more comfortable with C#. This has been created utilizing Windows Forms.
+This was a project that mostly followed a tutorial for creating a clone of the popular game Minesweeper. The intent of this project was to familiarize myself with the C# language and Winforms. The project also strengthened my grasp of loops, recursion, and object oriented programming.
